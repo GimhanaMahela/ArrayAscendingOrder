@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 void ascendingOrder (int arr[], int n) {
     int i, j, temp;
